@@ -1,0 +1,5 @@
+<?php
+
+	echo "assalomu aleykum";
+
+ ?>
