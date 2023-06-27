@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Potta+One&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1110px;
+    margin: 0 auto;
+}
+
+.header__text {
+    color: #565759;
+    font-size: 38px;
+    font-family: Potta One;
+    letter-spacing: -1.33px;
+    color: red;
+}
